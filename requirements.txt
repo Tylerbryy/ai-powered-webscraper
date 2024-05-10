@@ -1,0 +1,2 @@
+PyQt6==6.7.0
+scrapegraphai==0.10.0
